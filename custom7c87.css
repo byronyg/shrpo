@@ -1,0 +1,18 @@
+
+
+@media screen and (min-width: 1201px) {
+    ::-webkit-scrollbar-thumb {
+        /* Укажи цвет скроллбара */
+        background: #000000;
+        /* Укажи радиус скругления скроллбара */
+        border-radius: 10px;
+    }
+    ::-webkit-scrollbar {
+        /* Укажи ширину вертикального скроллбара */
+        width: 5px;
+        /* Укажи высоту горизонтального скроллбара */
+        height: 5px;
+        /* Укажи цвет фона под скроллбаром */
+        background: #FFFFFF;
+    }
+}
